@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bobsmith1089
-- 👀 I’m interested in ...
+- 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning React
 
 
